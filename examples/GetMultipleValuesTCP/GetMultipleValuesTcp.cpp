@@ -1,5 +1,5 @@
 // This example retrieves last value of a variable from the Ubidots API
-// using HTTP protocol.
+// using TCP protocol.
 
 /****************************************
  * Include Libraries
